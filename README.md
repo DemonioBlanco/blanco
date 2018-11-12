@@ -4,9 +4,9 @@ This website was created by The White Demon or Demonio Blanco!
 
 This website will have games you can download and play! We will also post detailed restriction bypasses for ypur school devices. A suggestion box is coming soon.
 
-### Markdown
+### Games Icluded So Far
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
 
 ```markdown
 Syntax highlighted code block
