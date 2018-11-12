@@ -1,4 +1,4 @@
-## Welcome to GitHub
+## Welcome to Demonio Blanco Games!
 
 You can use the [editor on GitHub](https://github.com/DemonioBlanco/blanco/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
