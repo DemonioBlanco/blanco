@@ -6,16 +6,17 @@ This website will have games you can download and play! We will also post detail
 
 ### Games Icluded
 
-Toontown
-Wizarding101
-
-
+-Toontown
+-Wizarding101
+-Roblox
+-Ravenfield OSX
+-SkillWarz
 
 ### Applications Included
 
-Steam
-Discord
+-Steam
+-Discord
 
-### Support or Contact
+## Downloads
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
