@@ -7,14 +7,19 @@ This website will have games you can download and play! We will also post detail
 ### Games Icluded
 
 -Toontown
+
 -Wizarding101
+
 -Roblox
+
 -Ravenfield OSX
+
 -SkillWarz
 
 ### Applications Included
 
 -Steam
+
 -Discord
 
 ## Downloads
