@@ -6,15 +6,15 @@ This website will have games you can download and play! We will also post detail
 
 ### Games Included
 
-Toontown
+-Toontown
 
-Wizarding101
+-Wizarding101
 
-Roblox
+-Roblox
 
-Ravenfield OSX
+-Ravenfield OSX
 
-SkillWarz
+-SkillWarz
 
 ### Applications Included
 
@@ -30,4 +30,6 @@ Discord
 
 ### Credits
 
-This website was made with 
+This website was made with GithubPages for ProjectRSS.
+
+
